@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form{
+    background-color: yellow;
+    margin: 150px auto;
+    width: 500px;
+    height: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center; 
+}
+
+.input{
+    margin-bottom: 15px;
+    width: 300px;
+    height: 30px;
+    border-radius: 20px;
+    border: none ;
+    padding: 20px;
+}
+
+.button{
+    margin-top: 20px;
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: green;
+    font-weight: 700;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.userText{
+    font-size: 20px;
+    color: white;
+    background-color: red;
+    margin: 45px auto ;
+    /* width: 100px; */
+    height: 70px;
+    font-weight: 800;
+    padding: 20px;
+    border-radius: 10px;
+} 
